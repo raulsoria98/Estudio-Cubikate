@@ -82,8 +82,9 @@ Sería importante mejorar la legibilidad en algunas zonas, mostrar algo más de 
 
 La estética del sitio está bastante bien conseguida. Tan sólo sería necesario añadir esa página en la que el usuario pudiera consultar tarifas y horarios, además de añadir un mismo footer para todas las páginas del sitio web que mostrase alguna información relevante para el usuario.
 
-[Boceto Tarifas y Horarios][Boceto]
-
+<!-- [Boceto Tarifas y Horarios][Boceto] -->
+Página de Tarifas y Horarios:
+![Boceto Tarifas y Horarios](img/boceto_tarifas_horarios.jpg)
 
 ## Paso 3. Mi UX-Case Study 
 
